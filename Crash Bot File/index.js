@@ -2,10 +2,10 @@
 Youtube Tech God
 */
 const config = `
-HANDLERS=.
-SESSION_ID="Jarvis_d3d4_d896_7cf8_892a"
+HANDLERS=&
+SESSION_ID="Jarvis_1883_3a6d_a54c_0234_f165_eb8e_dd94_9ff4"
 SUDO=null
-WORK_TYPE=public
+WORK_TYPE=private 
 ALWAYS_ONLINE=true
 STATUS_VIEW=true
 REJECT_CALL=false
